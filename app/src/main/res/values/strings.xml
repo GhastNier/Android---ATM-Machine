@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">MyATM</string>
+    <string name="account">Account:</string>
+    <string name="in_hand">Money In Hand:</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="base_account">3000</string>
+    <string name="base_in_hand">0</string>
+</resources>
